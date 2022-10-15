@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guerchen
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machile Learning 
+- 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on AI projects in general
 
 <!---
