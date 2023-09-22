@@ -9,7 +9,7 @@ gantt
 dateFormat YYYY-MM-DD
 title My timeline
 
-sections Study
+section Study
 Poli-USP                 :active,, 2017-03-01,2022-09-01
 Tel Aviv University      :active,, 2020-01-08,2020-07-31
 
