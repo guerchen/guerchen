@@ -14,7 +14,7 @@ Poli-USP                 :active,, 2017-03-01,2022-09-01
 Tel Aviv University      :active,, 2020-01-08,2020-07-31
 
 section Carreer
-Livance                  :active,, 2018-12-01,2019-02-29
+Livance                  :active,, 2018-12-01,2019-02-28
 Fabric                   :active,, 2020-06-01,2020-07-31
 Santander                :active,, 2020-10-01,2021-03-01
 idwall                   :active,, 2021-04-05,2023-12-31
