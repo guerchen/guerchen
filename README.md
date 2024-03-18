@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guerchen
 - 👀 I’m interested in Data Science and Software Engineering
-- 🌱 I’m currently learning Machine Learning and Frontend development
+- 🌱 I’m currently learning Machine Learning and Software development
 - 💞️ I’m looking to collaborate on AI projects in general
 
 ```mermaid
